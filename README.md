@@ -6,7 +6,7 @@ details For this fork I simplified the original with the following changes:
 
 1. Support only the tripod version (no tabletop).
 
-2. Separated the CAD files into five separate STL files, one for each component.
+2. Separated the CAD files into six separate STL files, one for each component.
 
 3. Redesigned the
 [vehicle mount](https://github.com/simondlevy/OpenGimbal/blob/main/stl/Vehicle_Mount.stl)
