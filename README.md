@@ -1,7 +1,8 @@
 # OpenGimbal
 
-This is a standalone fork of Suryansh Sharma's [OpenGimbal](https://github.com/tristandijkstra/OpenGimbal) project.  
-For this fork I simplified the original with the following changes:
+This is a standalone fork of Suryansh Sharma's
+[OpenGimbal](https://github.com/tristandijkstra/OpenGimbal) project, q.v. for
+details For this fork I simplified the original with the following changes:
 
 1. Support only the tripod version (no tabletop).
 
