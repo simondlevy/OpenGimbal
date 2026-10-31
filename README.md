@@ -8,8 +8,9 @@ details For this fork I simplified the original with the following changes:
 
 2. Separated the CAD files into five separate STL files, one for each component.
 
-3. Redesigned the inner vehicle mount to accommodate the popular 25.5 x 25.5 mm TinyWhoop
-   flight-controller mounting holes.
+3. Redesigned the
+[vehicle mount](https://github.com/simondlevy/OpenGimbal/blob/main/stl/Vehicle_Mount.stl)
+to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting holes.
 
 ### Parts
 
