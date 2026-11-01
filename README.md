@@ -6,9 +6,11 @@ details For this fork I simplified the original with the following changes:
 
 1. Support only the tripod version (no tabletop).
 
-2. Separated the CAD files into six separate STL files, one for each component.
+2. Exploit the larger bed size of the Bambu 1S printer (256x256mm) to support
+a single piece for the inner ring and vehicle mount, resulting in only five
+STL files.
 
-3. Redesigned the
+3. Redesign the
 [vehicle mount](https://github.com/simondlevy/OpenGimbal/blob/main/stl/Vehicle_Mount.stl)
 to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting holes.
 
