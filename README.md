@@ -18,7 +18,7 @@ to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting hole
 
 ### Parts
 
-M3 steel machine screws (two 20mm, two 25mm) and two nuts
+M3 steel machine screws (three 20mm, two 25mm) and two nuts
 [I bought [these](https://www.amazon.com/dp/B0FGV5FCBN?th=1)]
 
 M6 steel machine screws (one 30mm) 
@@ -30,5 +30,7 @@ M2 nylons machine screws and standoffs
 Ball Bearing ID 3mm x OD 9mm x Width 5mm (four)
 [I bought [these](https://www.amazon.com/dp/B0CH2Y5KWF)]
 
-Ball Bearing Inner d = 6 \| Outer d = 12 \| Thickness = 4 | Base             |   2 |
+Ball Bearing ID 6mm x OD 12mm x Width 4mm (two)
+[I bought [these](https://www.amazon.com/HiPicco-MR126-2RS-Bearings-Miniature-Pre-Lubricated/dp/B0C74WQ9HM)
+
 
