@@ -14,17 +14,21 @@ STL files.
 [vehicle mount](https://github.com/simondlevy/OpenGimbal/blob/main/stl/Vehicle_Mount.stl)
 to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting holes.
 
+4. Add brackets to immobilize the pitch and/or roll axis if needed.
+
 ### Parts
 
-| Component                                                 | Usage            | Qty |
-|-----------------------------------------------------------|------------------|-----|
-| Ball Bearing Inner d = 3 \| Outer d = 9 \| Thickness = 5  | Inner 2 axes     |   4 |
-| Ball Bearing Inner d = 6 \| Outer d = 12 \| Thickness = 4 | Base             |   2 |
-|                                                           |                  |     |
-| DIN 912 M3 x 20mm halfthreaded screw                      | Inner axis       |   2 |
-| DIN 934 M3 hex nut                                        |                  |   8 |
-|                                                           |                  |     |
-| DIN 912 M6 x 30 mm halfthreaded screw                     | Base Connector   |   1 |
-|                                                           |                  |     |
-| m2 Threaded insets                                        | Drone attachment |   2 |
+M3 steel machine screws (two 20mm, two 25mm) and two nuts
+[I bought [these](https://www.amazon.com/dp/B0FGV5FCBN?th=1)]
+
+M6 steel machine screws (one 30mm) 
+[I bought [these](https://www.amazon.com/dp/B0FGV89DVB)]
+
+M2 nylons machine screws and standoffs
+[I bought [these](https://www.amazon.com/dp/B07D78PFQL)]
+
+Ball Bearing ID 3mm x OD 9mm x Width 5mm (four)
+[I bought [these](https://www.amazon.com/dp/B0CH2Y5KWF)]
+
+Ball Bearing Inner d = 6 \| Outer d = 12 \| Thickness = 4 | Base             |   2 |
 
