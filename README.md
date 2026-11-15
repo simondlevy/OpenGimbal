@@ -14,7 +14,7 @@ STL files.
 [vehicle mount](https://github.com/simondlevy/OpenGimbal/blob/main/stl/Vehicle_Mount.stl)
 to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting holes.
 
-4. Add brackets to immobilize the pitch and/or roll axis if needed.
+4. Add brackets to immobilize the pitch and/or roll axis as needed.
 
 ### Parts
 
