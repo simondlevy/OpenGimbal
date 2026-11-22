@@ -91,6 +91,6 @@ and standoffs (easier to work with than M2 nuts) to do this.  Then you can
 gently insert the mounted vehicle assembly into the outer-ring bearings for
 testing.
 
-14. As show in this [video](https://youtu.be/i3aPySlOAHw) you can 3D-print a bracket
-to clamp the [roll](stl/clamps/Roll_Clamp) and/or [pitch](stl/clamps/Pitch_Clamp)
+14. As shown in this [video](https://youtu.be/i3aPySlOAHw) you can 3D-print a bracket
+to clamp the [roll](stl/clamps/Roll_Clamp.stl) and/or [pitch](stl/clamps/Pitch_Clamp.stl)
 axes of the vehicle as desired.
