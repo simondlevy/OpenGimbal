@@ -65,4 +65,4 @@ inner ring.  When you're done the inner ring should look like
 8. Use an M3 25mm bolt and nut to
 [affix](media/Base_Core_Outer_Half_Ring_Tripod_Attachment.jpg)
 the base cylinder to the
-[tripod attachment](stl/Tripod_Mount.stl).
+[tripod attachment](stl/Tripod_Attachment.stl).
