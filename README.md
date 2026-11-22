@@ -68,4 +68,8 @@ the base cylinder to the
 [tripod attachment](stl/Tripod_Attachment.stl).
 
 9. [Insert](/media/Vehicle_Mount._Nut.jpg) an M3 nut into either end of the
-[vehicle mount](stl/Vehicle_Mount.stl).
+[vehicle mount](stl/Vehicle_Mount.stl), again using a dab of E6000 if needed.
+
+10. Screw the two remaining 25mm M3 bolts outward through the nuts in the
+vehicle mount.  When you're done the vehicle mount should look like 
+[this](media/Vehicle_Mount.jpg).
