@@ -78,8 +78,8 @@ vehicle mount.  When you're done the vehicle mount should look like
 attachment. When you're done you should have an assembly like
 [this](media/Tripod_Quick_Release.jpg).
 
-12. Grab the inner ring and push one of its bolts gently through
-the bearing in the inner half-ring.  By gently squeezing the
-inner ring you should be able to push the other bolt through the
-other bearing.  Attaching the assembly to your tripod you should
-get somethig like [this](media/With_Tripod.jpg).
+12. Holding the inner ring near one of its bolts, gently push the bolt through
+the bearing in the inner half-ring.  By gently squeezing the inner ring you
+should be able to push the other bolt through the other bearing.  Attaching the
+assembly to your tripod you should get somethig like
+[this](media/With_Tripod.jpg).
