@@ -39,3 +39,6 @@ to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting hole
 
 1. 3D print all the [parts](stl/).  Again, you will need a printer with a bed
 big enough to print the 22x22cm [inner ring](stl/Inner_Ring.stl).
+
+2. Add the [inner](media/Base_Core_Inner_Bearing.jpg) and
+[top](/media/Base_Core_Top_Bearing.jpg) 6x12x4 bearings to the base cylinder.
