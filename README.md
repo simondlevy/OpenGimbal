@@ -52,9 +52,12 @@ to keep a bearing firmly in place, a dab of smeared
 [E6000 adhesive](https://www.amazon.com/6000-Clear-Crafts-Purpose-Transparent/dp/B0BNJN4S53)
 around the perimeter of the hole should do the trick.
 
-5. [Insert](media/Inner_Ring_Bearing.jpg) the remaining two 3x9x5 bearings to the
+5.[Insert](media/Inner_Ring_Bearing.jpg) the remaining two 3x9x5 bearings to the
 [inner ring](stl/Inner_Ring.stl), again using a dab of E6000 if needed.
 
-6.  [Insert](media/Inner_Ring_Bolt.jpg) two of the 25mm M3 bolts into the
+6. [Insert](media/Inner_Ring_Bolt.jpg) the two 25mm M3 bolts into the
 inner ring.  When you're done the inner ring should look like 
 [this](media/Inner_Ring.jpg).
+
+7. [Screw](media/Base_Core_Outer_Half_Ring.jpg) the outer half-ring onto the
+30mm M6 bolt on the base cylinder.
