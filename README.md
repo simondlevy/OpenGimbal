@@ -43,7 +43,7 @@ big enough to print the 22x22cm [inner ring](stl/Inner_Ring.stl).
 2. Add the [inner](media/Base_Core_Inner_Bearing.jpg) and
 [top](/media/Base_Core_Top_Bearing.jpg) 6x12x4 bearings to the base cylinder.
 
-3. [Insert](media/Base_Core_Main_Bolt.jpg) the 30mm M6 bolt into the
+3. [Insert](media/Base_Core_Main_Bolt.jpg) the 30mm M6 bolt into
 the base cylinder.
 
 4. [Insert](media/Outer_Half_Ring_Bearing.jpg) two of the four 3x9x5 bearings to the
@@ -81,7 +81,7 @@ attachment. When you're done you should have an assembly like
 12. Holding the inner ring near one of its bolts, gently push the bolt through
 the bearing in the inner half-ring.  By gently squeezing the inner ring you
 should be able to push the other bolt through the other bearing.  Attaching the
-resulting assembly to your tripod you should give you somethig like
+resulting assembly to your tripod you should give you something like
 [this](media/With_Tripod.jpg).
 
 13. To attach my vehicle to the gimbal, I found it easier to affix the vehicle
@@ -93,4 +93,4 @@ testing.
 
 14. As shown in this [video](https://youtu.be/i3aPySlOAHw) you can 3D-print a bracket
 to clamp the [roll](stl/clamps/Roll_Clamp.stl) and/or [pitch](stl/clamps/Pitch_Clamp.stl)
-axes of the vehicle as desired.
+axis of the vehicle as desired.
