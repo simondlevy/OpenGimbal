@@ -45,3 +45,9 @@ big enough to print the 22x22cm [inner ring](stl/Inner_Ring.stl).
 
 3. [Insert](media/Base_Core_Main_Bolt.jpg) the 30mm M6 bolt into the
 the base cylinder.
+
+4. [Insert](media/Inner_Half_Ring.jpg) the two 3x9x5 bearings to the
+[inner half-ring](stl/Inner_Half_Ring.stl).  If there's not enough friction
+to keep the bearings firmly in place, a little
+[E6000 adhesive](https://www.amazon.com/6000-Clear-Crafts-Purpose-Transparent/dp/B0BNJN4S53)
+around the perimeter of the hole should do the trick.
