@@ -81,5 +81,10 @@ attachment. When you're done you should have an assembly like
 12. Holding the inner ring near one of its bolts, gently push the bolt through
 the bearing in the inner half-ring.  By gently squeezing the inner ring you
 should be able to push the other bolt through the other bearing.  Attaching the
-assembly to your tripod you should get somethig like
+resulting assembly to your tripod you should give you somethig like
 [this](media/With_Tripod.jpg).
+
+13. To attach my vehicle to the gimbal, I found it easier to affix the vehicle
+to the vehicle mount before putting the vehicle mount into the main gimbal
+assembly.  As shown [here](media/Vehicle_On_Mount.jpg) I used four M2 nylon screws
+and standoffs (easier to work with than M2 nuts) to do this.
