@@ -53,5 +53,11 @@ to keep a bearing firmly in place, a dab of smeared
 around the perimeter of the hole should do the trick.
 
 5. [Insert](media/Inner_Ring_Bearing.jpg) the remaining two 3x9x5 bearings to the
-[inner ring](stl/Inner_Ring.stl).  If there's not enough friction, again using a dab of
-E6000 if needed.
+[inner ring](stl/Inner_Ring.stl), again using a dab of E6000 if needed.
+
+6.  [Insert](media/Inner_Ring_Bolt.jpg) two of the 25mm M3 bolts into the
+inner ring.  When you're done the inner ring should look like 
+[this](media/Inner_Ring.jpg).
+
+[inner ring](stl/Inner_Ring.stl), again using a dab of E6000 if needed.
+
