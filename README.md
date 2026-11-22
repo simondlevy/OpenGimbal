@@ -75,5 +75,5 @@ vehicle mount.  When you're done the vehicle mount should look like
 [this](media/Vehicle_Mount.jpg).
 
 11. Screw the quick-release plate from your tripod into the tripod
-attachment.When you're done you should have an assembly like
-[this](media/Tripod_Quick_Releae.jpg).
+attachment. When you're done you should have an assembly like
+[this](media/Tripod_Quick_Release.jpg).
