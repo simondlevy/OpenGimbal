@@ -42,3 +42,6 @@ big enough to print the 22x22cm [inner ring](stl/Inner_Ring.stl).
 
 2. Add the [inner](media/Base_Core_Inner_Bearing.jpg) and
 [top](/media/Base_Core_Top_Bearing.jpg) 6x12x4 bearings to the base cylinder.
+
+3. [Insert](media/Base_Core_Main_Bolt.jpg) the 30mm M6 bolt into the
+the base cylinder.
