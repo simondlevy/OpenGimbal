@@ -87,4 +87,10 @@ resulting assembly to your tripod you should give you somethig like
 13. To attach my vehicle to the gimbal, I found it easier to affix the vehicle
 to the vehicle mount before putting the vehicle mount into the main gimbal
 assembly.  As shown [here](media/Vehicle_On_Mount.jpg) I used four M2 nylon screws
-and standoffs (easier to work with than M2 nuts) to do this.
+and standoffs (easier to work with than M2 nuts) to do this.  Then you can 
+gently insert the mounted vehicle assembly into the outer-ring bearings for
+testing.
+
+14. As show in this [video](https://youtu.be/i3aPySlOAHw) you can 3D-print a bracket
+to clamp the [roll](stl/clamps/Roll_Clamp) and/or [pitch](stl/clamps/Pitch_Clamp)
+axes of the vehicle as desired.
