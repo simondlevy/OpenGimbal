@@ -16,7 +16,7 @@ to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting hole
 
 4. Add brackets to immobilize the pitch and/or roll axis as needed.
 
-5. Add build instructions with photos
+5. Add assembly instructions with photos
 
 ## Parts
 
@@ -35,8 +35,7 @@ to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting hole
 * Ball Bearing ID 6mm x OD 12mm x Width 4mm (two)
 [I bought [these](https://www.amazon.com/HiPicco-MR126-2RS-Bearings-Miniature-Pre-Lubricated/dp/B0C74WQ9HM)
 
-## Building
+## Assembly
 
-1. 
-
-
+1. 3D print all the [parts](stl/).  Again, you will need a printer with a bed
+big enough to print the 22x22cm [inner ring](stl/Inner_Ring.stl).
