@@ -66,3 +66,6 @@ inner ring.  When you're done the inner ring should look like
 [affix](media/Base_Core_Outer_Half_Ring_Tripod_Attachment.jpg)
 the base cylinder to the
 [tripod attachment](stl/Tripod_Attachment.stl).
+
+9. [Insert](/media/Vehicle_Mount._Nut.jpg) an M3 nut into either end of the
+[vehicle mount](stl/Vehicle_Mount.stl).
