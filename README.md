@@ -16,21 +16,27 @@ to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting hole
 
 4. Add brackets to immobilize the pitch and/or roll axis as needed.
 
-### Parts
+5. Add build instructions with photos
 
-M3 steel machine screws (three 20mm, two 25mm) and two nuts
+## Parts
+
+* M3 steel machine screws (three 20mm, two 25mm) and two nuts
 [I bought [these](https://www.amazon.com/dp/B0FGV5FCBN?th=1)]
 
-M6 steel machine screws (one 30mm) 
+* M6 steel machine screws (one 30mm) 
 [I bought [these](https://www.amazon.com/dp/B0FGV89DVB)]
 
-M2 nylons machine screws and standoffs
+* M2 nylons machine screws and standoffs
 [I bought [these](https://www.amazon.com/dp/B07D78PFQL)]
 
-Ball Bearing ID 3mm x OD 9mm x Width 5mm (four)
+* Ball Bearing ID 3mm x OD 9mm x Width 5mm (four)
 [I bought [these](https://www.amazon.com/dp/B0CH2Y5KWF)]
 
-Ball Bearing ID 6mm x OD 12mm x Width 4mm (two)
+* Ball Bearing ID 6mm x OD 12mm x Width 4mm (two)
 [I bought [these](https://www.amazon.com/HiPicco-MR126-2RS-Bearings-Miniature-Pre-Lubricated/dp/B0C74WQ9HM)
+
+## Building
+
+1. 
 
 
