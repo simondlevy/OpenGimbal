@@ -20,13 +20,13 @@ to accommodate the popular 25.5x25.5mm TinyWhoop flight-controller mounting hole
 
 ## Parts
 
-* M3 steel machine screws (three 20mm, two 25mm) and two nuts
+* M3 steel machine bolts (two 20mm, three 25mm) and three nuts
 [I bought [these](https://www.amazon.com/dp/B0FGV5FCBN?th=1)]
 
-* M6 steel machine screws (one 30mm) 
+* M6 steel machine bolts (one 30mm) 
 [I bought [these](https://www.amazon.com/dp/B0FGV89DVB)]
 
-* M2 nylons machine screws and standoffs
+* M2 nylons machine bolts and standoffs
 [I bought [these](https://www.amazon.com/dp/B07D78PFQL)]
 
 * Ball Bearing ID 3mm x OD 9mm x Width 5mm (four)
@@ -61,3 +61,8 @@ inner ring.  When you're done the inner ring should look like
 
 7. [Screw](media/Base_Core_Outer_Half_Ring.jpg) the outer half-ring onto the
 30mm M6 bolt on the base cylinder.
+
+8. Use an M3 25mm bolt and nut to
+[affix](media/Base_Core_Outer_Half_Ring_Tripod_Attachment.jpg)
+the base cylinder to the
+[tripod attachment](stl/Tripod_Mount.stl).
